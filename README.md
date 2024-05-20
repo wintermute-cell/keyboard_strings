@@ -1,4 +1,5 @@
-# kbstrings is a collection of string representations for keyboard layouts.
+# kbstrings 
+...is a collection of string representations for keyboard layouts.
 
 Feel free to use these for whatever you need, and contribute more variants.
 More layouts or different keyboard sizes are always welcome!
